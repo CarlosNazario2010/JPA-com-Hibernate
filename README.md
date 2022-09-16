@@ -1,1 +1,1 @@
-# JPA usando o Hibernate 
+# JPA usando o framework ORM Hibernate 
